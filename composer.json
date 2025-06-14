@@ -1,0 +1,30 @@
+{
+    "name": "ruka-surendra-kumar-reddy/framenet-video-utils-php",
+    "description": "A simple PHP utility to get details like duration, resolution, and FPS from a video file.",
+    "type": "library",
+    "keywords": [
+        "video",
+        "utils",
+        "ffmpeg",
+        "ffprobe",
+        "framenet",
+        "video editing"
+    ],
+    "homepage": "https://www.framenet.ai",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Surendra Kumar Reddy",
+            "email": "surendraruka514@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "php-ffmpeg/php-ffmpeg": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "FrameNet\\VideoUtils\\": "src/"
+        }
+    }
+}
