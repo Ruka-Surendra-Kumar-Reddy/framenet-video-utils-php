@@ -1,6 +1,6 @@
 # FrameNet Video Utils for PHP
 
-![Latest Version](https://img.shields.io/packagist/v/ruka-surendra-kumar-reddy/framenet-video-utils-php?style=flat-square) ![License](https://img.shields.io/packagist/l/ruka-surendra-kumar-reddy/framenet-video-utils-php?style=flat-square)
+![Latest Version](https://img.shields.io/packagist/v/ruka-surendra-kumar-reddy/framenet-video-utils-php?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
 A simple PHP utility for getting video file details like duration, resolution, and frame rate.
 
